@@ -204,7 +204,7 @@ http://i.imgur.com/nPdpKE3.gif
 http://i.imgur.com/nZNWt.gif
 https://i.minus.com/ibgOIzJMrJvRKL.gif
 http://i.imgur.com/WJypQw9.gif
-http://d22zlbw5ff7yk5.buttfront.net/images/cm-29210-35091ac067d9ba.gif
+http://d22zlbw5ff7yk5.cloudfront.net/images/cm-29210-35091ac067d9ba.gif
 http://25.media.tumblr.com/542a066e4d3dc2c962baba62d86f748c/tumblr_mk6s3dzjLf1qbdynmo1_400.gif
 http://people.mozilla.org/~mverdi/mockups/pinnedtabs/pintabs-win7.gif
 https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/59a2205b28ae79ff79a6b2418075b687/tumblr_mh58pqvexR1ra22gmo1_500.gif
@@ -490,7 +490,7 @@ http://i.imgur.com/dAtcCfH.gif
 http://i.imgur.com/Kh2Osoy.gif
 http://i.imgur.com/l5HfJo0.gif
 http://i.imgur.com/mVdrJw7.gif
-http://d3j5vwomefv46c.buttfront.net/photos/large/799739303.gif
+http://d3j5vwomefv46c.cloudfront.net/photos/large/799739303.gif
 http://i.imgur.com/o3aqu59.gif
 http://i.imgur.com/LBkdf.gif
 http://gifs.gifbin.com/072010/1280482491_dealwithit-the-long-version.gif
@@ -832,7 +832,7 @@ http://themetapicture.com/media/funny-gif-Dinosaur-TRex-Continents.gif
 http://img.gawkerassets.com/img/192jqmrqshrapgif/original.gif
 http://media.giphy.com/media/BjCMpaEqFpIfC/giphy.gif
 http://i.imgur.com/TeR9Q5x.jpg
-http://d24w6bsrhbeh9d.buttfront.net/photo/aXbYWzz_460sa.gif
+http://d24w6bsrhbeh9d.cloudfront.net/photo/aXbYWzz_460sa.gif
 http://25.media.tumblr.com/451b7d0fc068c6d5d77e7fb6b3e9407d/tumblr_muo55jb4111r2geqjo1_500.gif
 https://lh6.googleusercontent.com/-xMf9T1kblxU/UmCTyL65V1I/AAAAAAAAC-U/9ISOUR7WqK8/w426-h303/IMG_0856.GIF
 http://1-ps.googleusercontent.com/x/www.dailydawdle.com/images.dailydawdle.com/im-stuck-dog.gif.pagespeed.ce.0jwQ73qFI7.gif
@@ -969,3 +969,4 @@ http://i.imgur.com/SlRlzK3.gif
 http://i.imgur.com/TruG9B8.gif
 http://s27.postimg.org/70z2jsj7l/your_giffed_face_1.gif
 http://i.imgur.com/v0F8Pob.gif
+http://i.giflike.com/drzJGO9_dg.gif
